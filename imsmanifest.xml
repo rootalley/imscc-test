@@ -39,5 +39,8 @@
       <file href="course_settings/media_tracks.xml"/>
       <file href="course_settings/canvas_export.txt"/>
     </resource>
+    <resource identifier="g1058d65ce142a0ecd7b1ede8a58a8235" type="webcontent" href="wiki_content/home-page.html">
+      <file href="wiki_content/home-page.html"/>
+    </resource>
   </resources>
 </manifest>
